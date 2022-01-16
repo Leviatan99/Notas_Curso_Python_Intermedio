@@ -10,7 +10,7 @@ def run():
     num = int(input('Ingresa un número: '))
     
     print(divisors(num))
-    print("Terminó mi programa vuelve a reiniciarlo, por favor")
+    print("Terminó mi programa vuelve a reiniciarlo, por favor, vamos tu puedes")
 
 
 if __name__ == '__main__':
